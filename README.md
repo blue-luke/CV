@@ -46,11 +46,7 @@ _Account Executive_
 - I managed 3 contracts (total value ~£3.5 million) and interacted with external healthcare stakeholders at all levels
 - I pursued international business opportunities in Kazakhstan, China, India and the Emirates
 
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- *At the time, TPP had around 175 staff and was still owned and managed by the founder, who largely coded the entire system himself from scratch 15 years prior. I joined when it first started to pursue international opporuntities, branching out from the NHS contracts that had sustained it in the early years. The organisation retained a start-up mentality, with a ptich-in attitude and an open learning & development environment. His vision was 'One Patient, One Record', and I was given a vital insight into how this vision was implemented in the system's architecture and commercially*
 
 ## Skills
 
@@ -82,6 +78,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+#### Additional Skills
+- German to C1
+- Arabic (MSA) to B2
+
 ## Education
 
 #### Makers Academy (August - December 2021)
@@ -102,7 +102,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Arab World Studies
 - Pass
-- Prize for best undergraduate philosophy dissertation
+- I studied colloquial Arabic (Levantine dialect), formal Arabic (MSA) and Middle Eastern Politics
 
 #### Durham University (2007-2010)
 
@@ -112,13 +112,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-- 3 A's at A-level
-- 4 A\*s , 5A's, 1B, 2C's at GCSE
-- AWS Cloud Practicioner
-- Prince2 Agile Practitioner
+- AWS Cloud Practitioner
+- PRINCE2 Agile Practitioner
 - Managing Successful Programmes (MSP) Foundation
 - BTEC in Leadership and Management
+- 3 A's at A-level (biology, chemistry, physics)
+- 4 A\*s , 5A's, 1B, 2C's at GCSE
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- I write novels and plays in my spare time
