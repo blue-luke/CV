@@ -1,21 +1,20 @@
-## Your Name
+## Luke Blackburn
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm an early career software developer, science teacher and linguist. After 6 years working in education and education outreach, I have changed careers to the tech sector, as it offers future-proof skills, a challenge, and massive scope for growth.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                                                           | Tech/tools        |
+| ---------------------------- | --------------------------------------------------------------------- | ----------------- |
+| **German noun gender app**   | A webapp to help German langauge sutdents learn the genders of nouns. | Ruby              |
 
 ## Work Experience
 
 **Self-Employed** (October 2019 to July 2021)  
-Private Residential Tutor
+_Private Residential Tutor_
 
-- I worked in Saudi Arabia and Azerbaijan as a tutor to ultra-high net worth families
-- I interacted with politically and economically powerful parents, their staff, and their children to achieve high educational standards
+- I worked in Saudi Arabia and Azerbaijan as a tutor to children in ultra-high net worth families
+- I interacted with high-profile parents, and their staff, to achieve high educational standards
 
 **Royal Society of Chemistry** (October 2018 to October 2019)  
 _Programme Coordinator_
@@ -46,37 +45,21 @@ _Account Executive_
 - I managed 3 contracts (total value ~£3.5 million) and interacted with external healthcare stakeholders at all levels
 - I pursued international business opportunities in Kazakhstan, China, India and the Emirates
 
-- *At the time, TPP had around 175 staff and was still owned and managed by the founder, who largely coded the entire system himself from scratch 15 years prior. I joined when it first started to pursue international opporuntities, branching out from the NHS contracts that had sustained it in the early years. The organisation retained a start-up mentality, with a ptich-in attitude and an open learning & development environment. His vision was 'One Patient, One Record', and I was given a vital insight into how this vision was implemented in the system's architecture and commercially*
+*At the time, TPP had around 175 staff and was still owned and managed by the founder, who largely coded the entire system himself from scratch 15 years prior. I joined when it first started to pursue international opporuntities, branching out from the NHS contracts that had sustained it in the early years. The organisation retained a start-up mentality, with a ptich-in attitude and an open learning & development environment. His vision was 'One Patient, One Record', and I was given a vital insight into how this vision was implemented in the system's architecture and commercially.*
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Ruby/OOP
 
--STAR
--What was the situation/task? (ST)
+- My goal was to become familiar with thinking computationally. I taught myself Ruby using online resources, while working full-time as a residential tutor in Azerbaijan, studying daily over an extended period of time to ensure consistent progress. I also completed the GCSE and A-Level computer science syllabi to provide some theoretical underpinning. As a result, I passsed the admissions test for Makers Academy and reached level 4 kyu on Codewars
 
--How was the skill used?
+#### TDD
 
--What did you do? (action)
+- I needed to understand and use TDD to complete an arbitrary programming task called FizzBuzz. I worked with a colleague of mine to understand the basic principle and implement it in solving this problem. We progressed carefully, discussing the interpretation and implication of each step, and getting large amounts of practice. As a result, we were able to formulate a large number of tests, use their failure/passing to add additional functionality, drastically reduce the number of errors in the final code, and provide documentation for future users of the codebase
 
--What was the result?
+#### Communicating effectively
 
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- I am a clear and concise communicator, able to modify my language depending on the audience. This is a skill I gained from my time as a secondary school chemistry teacher. For example, I once needed to explain an abstract concept (the mole), to a disengaged year 9 class. I used my behaviour management skills to get pupil's attention and emphasised the centrality of this concept to their syllabus, and therefore to their final grades, to motivate them. I introduced it using an example relevant to their experience, using cake baking and the concept of a 'dozen', to help their understanding. As a result, all pupils were able to correctly answer some questions related to the concept at the end of their lesson and in their end of year exams
 
 #### Additional Skills
 - German to C1
@@ -85,28 +68,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (August - December 2021)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- An intensive, selective bootcamp that trains software developers in 16 weeks
+- I learnt several skills and technologies, such as OOP, TDD, MVC, DDD, Agile/XP, Ruby, Rails, Javascript, RSpec and Jasmine
+- I also learnt meta-skills such as the ability to learn new tech skills in a short amount of time and how to approach technical problem solving
+- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication
 
 #### Warwick University (2015-2016)
 
-- PGCE (Secondary Chemistry)
+- Post-Graduate Certificate in Education (PGCE - Secondary Chemistry)
 - Pass
 
 #### Edinburgh University (2010-2012)
 
-- Arab World Studies
+- MSc Arab World Studies
 - Pass
 - I studied colloquial Arabic (Levantine dialect), formal Arabic (MSA) and Middle Eastern Politics
 
 #### Durham University (2007-2010)
 
-- PPE (Philosophy, Politics and Economics)
+- BA Hons, Philosophy, Politics and Economics
 - 2:i
 - Prize for best undergraduate philosophy dissertation
 
