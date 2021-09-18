@@ -1,6 +1,6 @@
 ## Luke Blackburn
 
-I'm an early career software developer, science teacher and linguist. After 6 years working in education and education outreach, I have changed careers to the tech sector, as it offers future-proof skills, a challenge, and massive scope for growth.
+I'm an early career software developer with experience as a science teacher, translator, account executive in HealthTech and Agile project manager. After 6 years working in education, I have changed careers to the tech sector, as it offers future-proof skills, a challenge, and massive scope for growth.
 
 ## Projects
 
@@ -88,6 +88,7 @@ _Account Executive_
 
 - BA Hons, Philosophy, Politics and Economics
 - 2:i
+- 1/3 of my degree was in economics and featured undergraduate level maths
 - Prize for best undergraduate philosophy dissertation
 
 #### Any other qualifications
@@ -96,6 +97,7 @@ _Account Executive_
 - PRINCE2 Agile Practitioner
 - Managing Successful Programmes (MSP) Foundation
 - BTEC in Leadership and Management
+- Completed the GCSE and A-level computer science syllabi via self-study
 - 3 A's at A-level (biology, chemistry, physics)
 - 4 A\*s , 5A's, 1B, 2C's at GCSE
 
