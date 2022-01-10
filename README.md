@@ -7,7 +7,7 @@ I'm an early career software developer with experience as a science teacher, tra
 | Name                         | Description                                                           | Tech/tools        | Link          |
 | ---------------------------- | --------------------------------------------------------------------- | ----------------- | ------------- |
 | **German noun gender app**   | A webapp to help German langauge sutdents learn the genders of nouns. | Ruby              | -             |
-| **BrightCity**               | A webapp to help beginners learn to read Arabic.                      | React             | https://brightcity-front.herokuapp.com/ |
+| **BrightCity**               | A webapp to help beginners learn to read Arabic.                      | React, Rails      | https://brightcity-front.herokuapp.com/ |
 
 ## Work Experience
 
