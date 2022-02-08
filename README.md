@@ -3,10 +3,10 @@
 I'm an early career software developer with experience as a science teacher, translator, account executive in HealthTech and Agile project manager. After 6 years working in education, I have changed careers to the tech sector, as it offers future-proof skills, a challenge, and massive scope for growth. I'd love to start my own tech company someday.
 
 ## Projects
+Project portfolio: https://github.com/stars/blue-luke/lists/portfolio
 
 | Name                         | Description                                                           | Tech/tools        | Link          |
 | ---------------------------- | --------------------------------------------------------------------- | ----------------- | ------------- |
-| **German noun gender app**   | A webapp to help German langauge sutdents learn the genders of nouns. | Ruby              | -             |
 | **BrightCity**               | A webapp to help beginners learn to read Arabic.                      | React, Rails      | https://brightcity-front.herokuapp.com/ |
 
 ## Work Experience
