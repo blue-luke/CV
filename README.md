@@ -1,6 +1,6 @@
 ## Luke Blackburn
 
-I'm an early career software developer with experience as a science teacher, translator, account executive in HealthTech and Agile project manager. After 6 years working in education, I have changed careers to the tech sector, as it offers future-proof skills, a challenge, and massive scope for growth. I'd love to go into EdTech and want to start my own tech company someday.
+I'm an early career software developer with experience as a science teacher, translator, account executive in HealthTech and Agile project manager. After 6 years working in education, I have changed careers to the tech sector, as it offers future-proof skills, a challenge, and massive scope for growth. I'd love to start my own tech company someday.
 
 ## Projects
 
