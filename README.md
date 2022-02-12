@@ -12,6 +12,7 @@ My [Portfolio](https://github.com/stars/blue-luke/lists/portfolio/) is summarise
 | **TCPmessager**    | A TCP messaging app over localhost and local network    | Rails, http            | N/A                                                | [Here](https://github.com/blue-luke/clients/)|
 | **RPS**            | A rock, paper, scissors webapp                          | Rails, rspec, capybara | N/A                                                | [Here](https://github.com/blue-luke/rps-challenge/) |
 | **Battle-Club**    | A simple 'battle' webapp game                           | Rails, rspec, capybara | N/A                                                | [Here](https://github.com/blue-luke/battle-club2/) | 
+| **Non-alcoholic**  | An API for non-alcoholic drinks                         | Rails API              | [Heroku](https://non-alc.herokuapp.com/drinks)     | [Here](https://github.com/blue-luke/non-alc/) |
 
 ## Work Experience
 
