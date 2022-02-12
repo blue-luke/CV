@@ -8,7 +8,7 @@ My [Portfolio](https://github.com/stars/blue-luke/lists/portfolio/) is summarise
 
 | Name               | Description                                             | Tech/tools             | Hosted link                                        | Git link |
 | ------------------ | --------------------------------------------------------| -----------------------| -------------------------------------------------- | -------- |
-| **BrightCity**     | A webapp to help beginners learn to read Arabic         | React, Rails           | [Heroku](https://brightcity-front.herokuapp.com/)  | [Here](https://github.com/blue-luke/brightcity/) |
+| **BrightCity**     | A webapp to help beginners learn to read Arabic         | JS, React, Rails       | [Heroku](https://brightcity-front.herokuapp.com/)  | [Here](https://github.com/blue-luke/brightcity/) |
 | **TCPmessager**    | A TCP messaging app over localhost and local network    | Rails, http            | N/A                                                | [Here](https://github.com/blue-luke/clients/)|
 | **RPS**            | A rock, paper, scissors webapp                          | Rails, rspec, capybara | N/A                                                | [Here](https://github.com/blue-luke/rps-challenge/) |
 | **Battle-Club**    | A simple 'battle' webapp game                           | Rails, rspec, capybara | N/A                                                | [Here](https://github.com/blue-luke/battle-club2/) | 
