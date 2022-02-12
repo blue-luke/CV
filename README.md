@@ -3,8 +3,8 @@
 I'm an early career software developer with experience as a science teacher, translator, account executive in HealthTech and Agile project manager. After 6 years working in education, I have changed careers to the tech sector, as it offers future-proof skills, a challenge, and massive scope for growth. I'd love to start my own tech company someday.
 
 ## Projects
-Project portfolio: https://github.com/stars/blue-luke/lists/portfolio
-[Here](https://github.com/blue-luke/clients/)
+
+My [Portfolio](https://github.com/stars/blue-luke/lists/portfolio/) is summarised below:
 
 | Name               | Description                                             | Tech/tools             | Hosted link                                        | Git link |
 | ------------------ | --------------------------------------------------------| -----------------------| -------------------------------------------------- | -------- |
