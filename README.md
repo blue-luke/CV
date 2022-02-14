@@ -10,7 +10,7 @@ My [Portfolio](https://github.com/stars/blue-luke/lists/portfolio/) is summarise
 | ------------------ | --------------------------------------------------------| -----------------------| -------------------------------------------------- | -------- |
 | **BrightCity**     | A webapp to help beginners learn to read Arabic         | JS, React, Rails       | [Heroku](https://brightcity-front.herokuapp.com/)  | [Here](https://github.com/blue-luke/brightcity/) |
 | **TCPmessager**    | A TCP messaging app over localhost and local network    | TCP, http.             | N/A                                                | [Here](https://github.com/blue-luke/clients/)|
-| **RPS**            | A rock, paper, scissors webapp                          | Sinatra, rspec, capybara| N/A                                                | [Here](https://github.com/blue-luke/rps-challenge/) |
+| **RPS**            | A rock, paper, scissors webapp                          | Sinatra, rspec, capybara| [Heroku](https://shielded-coast-83279.herokuapp.com/) | [Here](https://github.com/blue-luke/rps-challenge-new/) |
 | **Battle-Club**    | A simple 'battle' webapp game                           | Sinatra, rspec, capybara| N/A                                                | [Here](https://github.com/blue-luke/battle-club2/) | 
 | **Non-alcoholic**  | An API for non-alcoholic drinks                         | Rails API              | [Heroku](https://non-alc.herokuapp.com/drinks)     | [Here](https://github.com/blue-luke/non-alc/) |
 
